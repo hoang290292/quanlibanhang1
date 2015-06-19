@@ -1,0 +1,17 @@
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\bin\Debug\quanlibanhang1.exe
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\bin\Debug\quanlibanhang1.pdb
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\bin\Debug\quanlibanhang1.xml
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.frmDangNhap.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.Resources.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.exe
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.xml
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.pdb
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.FrmQuanLiBanHang.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.frmQuanLiNhanVien.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.FrmQuanLiKhachHang.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.frmQuanLiSanPham.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.FrmLoaiSP.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.frmChiTietHoaDon.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.frmHoaDon.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.FrmTimKiem.resources
+D:\Baitapc++\quanlibanhang1\quanlibanhang1\obj\x86\Debug\quanlibanhang1.vbproj.GenerateResource.Cache
